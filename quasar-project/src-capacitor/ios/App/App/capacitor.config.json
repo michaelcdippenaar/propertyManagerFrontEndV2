@@ -1,0 +1,11 @@
+{
+  "appId": "org.capacitor.quasar.app",
+  "appName": "Quasar App",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "ios": {
+    "limitsNavigationsToAppBoundDomains": false
+  },
+  "url": "localhost"
+}

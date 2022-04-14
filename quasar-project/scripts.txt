@@ -1,0 +1,9 @@
+export LANG=en_US.UTF-8
+export LANGUAGE=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
+
+sudo chown -R ${USER} /Users/mcdippenaar/PycharmProjects/property_manager_front_end/src-capacitor/
+
+
+quasar dev -m capacitor -T ios --ide
+

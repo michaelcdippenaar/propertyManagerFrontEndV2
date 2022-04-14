@@ -1,0 +1,1 @@
+https://www.telerik.com/blogs/10-good-practices-building-maintaining-large-vuejs-projects
